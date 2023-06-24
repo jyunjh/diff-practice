@@ -1,3 +1,3 @@
 # diff-practice
 diff練習用
-変更staging用（1ｓｔ）
+変更another cahnge（3ｓｔ）
